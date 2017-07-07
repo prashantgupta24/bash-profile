@@ -21,4 +21,6 @@ car () {
    echo -e "\n\n****************************************************************************"
 }
 
+source /usr/local/git/git-completion.bash
+
 HISTFILESIZE=10000000
