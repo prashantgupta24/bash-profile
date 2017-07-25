@@ -23,4 +23,5 @@ car () {
 
 source /usr/local/git/git-completion.bash
 
-HISTFILESIZE=10000000
+export HISTFILESIZE=
+export HISTSIZE=
